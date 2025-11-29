@@ -8,13 +8,13 @@
 
 ## 🚀 About Me
 **Full Stack Developer | B.Tech (Electronics & Communication)**  
-I love creating scalable web applications, building intuitive UI, and solving meaningful technical challenges. I work mostly with the **MERN stack**, and I’m currently growing in **system design & advanced backend architecture**.
+I love building scalable, user-friendly web applications with a focus on modern frontend frameworks and cloud-backed services. Passionate about creating fast, intuitive UIs and building robust backend systems.
 
-- 🌱 Currently learning: **System Design, REST/GraphQL patterns, Firebase backend services**  
-- 💼 Open to: **Full Stack / Frontend Developer roles**  
-- 👯 Looking to collaborate on: **Web & mobile apps, automation tools, ML-enhanced projects**  
-- 📫 Reach me: **chinthapraveena194@example.com**  
-- ⚡ Fun fact: I automate annoying tasks just for fun 😄  
+- 🌱 Currently learning: **System Design, REST APIs, Firebase Admin SDK**
+- 💼 Looking for: **Full Stack / Frontend roles**
+- 👯 Collaboration: web apps, automation tools, ML-powered utilities
+- 📫 Email: **chinthapraveena194@example.com**
+- ⚡ Fun fact: I automate boring tasks just to save 5 minutes 😄
 
 ---
 
@@ -33,7 +33,7 @@ I love creating scalable web applications, building intuitive UI, and solving me
 
 ### **Tools & Platforms**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
 
@@ -42,38 +42,38 @@ I love creating scalable web applications, building intuitive UI, and solving me
 ## 📂 Featured Projects
 
 ### 🔹 **Planify — Travel Itinerary Planner**
-**Live Demo:** https://travel-itenarary-planner-planify.netlify.app/  
-**Code:** https://github.com/praveena415/Planify  
-A modern itinerary planner with **trip sharing, reminders, activity recommendations, document uploads, and role-based authentication** — built using **React, Firebase, and Tailwind**.
+📌 Live Demo: https://travel-itenarary-planner-planify.netlify.app/  
+📌 Code: https://github.com/praveena415/Planify  
+A modern itinerary planner with **trip sharing, reminders, document uploads, and activity recommendations**, built using **React + Firebase + Tailwind**.
 
 ---
 
 ### 🔹 **PropFinder – Property Listing Platform**
-**Live Demo:** https://property-listing-platform-propfinder.netlify.app/signin  
-**Code:** https://github.com/praveena415/propFinder  
-A clean, fast real-estate listing platform with **filters, search, image galleries, and saved listings**.
+📌 Live Demo: https://property-listing-platform-propfinder.netlify.app/signin  
+📌 Code: https://github.com/praveena415/propFinder  
+A fast and intuitive real-estate platform featuring **advanced filtering, search, listing previews, and user auth**.
 
 ---
 
 ### 🔹 **Podcast Hub**
-**Live Demo:** https://podcasthub7.netlify.app/  
-**Code:** https://github.com/praveena415/minProject  
-A podcast streaming platform for users, creators, and admins featuring **audio streaming, creator dashboards, and community engagement tools**.
+📌 Live Demo: https://podcasthub7.netlify.app/  
+📌 Code: https://github.com/praveena415/minProject  
+A podcast streaming app with **creator tools, user profiles, admin controls, and smooth audio playback**.
 
 ---
 
 ## 📫 Contact
-- 📧 **Email:** chinthapraveena194@example.com  
-- 🔗 **LinkedIn:** https://www.linkedin.com/in/praveena-chintha/  
-- 🖥️ **GitHub:** https://github.com/praveena415  
+- 📧 **Email:** chinthapraveena194@example.com
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/praveena-chintha/
+- 🖥️ **GitHub:** https://github.com/praveena415
 
 ---
 
-## 🔥 GitHub Stats
+## 🔥 GitHub Stats (Working Version)
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=praveena415&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveena415&layout=compact&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=praveena415&show_icons=true&theme=radical" />
+  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=praveena415&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -87,5 +87,5 @@ A podcast streaming platform for users, creators, and admins featuring **audio s
 
 <p align="center">
   <b>Thanks for visiting! 🙏  
-  If you like my work, feel free to ⭐ my repositories and connect with me.</b>
+  If you enjoyed my work, feel free to ⭐ my repositories and connect with me!</b>
 </p>
