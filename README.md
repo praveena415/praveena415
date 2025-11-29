@@ -69,15 +69,6 @@ A podcast streaming app with **creator tools, user profiles, admin controls, and
 
 ---
 
-## 🔥 GitHub Stats (Working Version)
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=praveena415&show_icons=true&theme=radical" />
-  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=praveena415&layout=compact&theme=radical" />
-</p>
-
----
-
 ## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=praveena415&theme=onedark&margin-w=10&margin-h=10" />
